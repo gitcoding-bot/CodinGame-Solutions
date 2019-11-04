@@ -11,17 +11,17 @@ All the solutions uploaded here are my own solutions. In the cases where I got s
 | Puzzle Name           | % Completed   | Difficulty    | Language    |
 | --------------------- | :-----------: | ------------- | ----------- |
 | [ASCII Art](https://github.com/gitcoding-bot/CodinGame-Solutions/tree/master/Solutions/Easy/ASCII%20Art)             | 100%          | Easy          | C++         |
-| Chuck Norris          | 100%          | Easy          | C++         |
-| Mars Lander           | 100%          | Easy          | C++         |
-| Onboarding            | 100%          | Easy          | Python      |
-| Power of Thor         | 100%          | Easy          | Python      |
-| Temperatures          | 100%          | Easy          | C++         |
-| The Descent           | 100%          | Easy          | Python      |
-| Aneo                  | 100%          | Medium        | C++         |
-| Shadow of the Knight  | 100%          | Medium        | C++         |
-| Skynet Revolution Ep1 | 100%          | Medium        | C++         |
-| There is no Spoon Ep1 | 100%          | Medium        | C++         |
-| War                   | 100%          | Medium        | C++         |
-| Roller Coaster        | 73%           | Hard          | C++         |
-| Skynet Revolution Ep2 | 49%           | Hard          | C++         |
-| There is no Spoon Ep2 | 84%           | Hard          | C++         |
+| [Chuck Norris](https://github.com/gitcoding-bot/CodinGame-Solutions/tree/master/Solutions/Easy/Chuch%20Norris)          | 100%          | Easy          | C++         |
+| [Mars Lander](https://github.com/gitcoding-bot/CodinGame-Solutions/tree/master/Solutions/Easy/Mars%20Lander%20-%20Episode%201)           | 100%          | Easy          | C++         |
+| [Onboarding](https://github.com/gitcoding-bot/CodinGame-Solutions/tree/master/Solutions/Easy/Onboarding)            | 100%          | Easy          | Python      |
+| [Power of Thor](https://github.com/gitcoding-bot/CodinGame-Solutions/tree/master/Solutions/Easy/Power%20of%20Thor)         | 100%          | Easy          | Python      |
+| [Temperatures](https://github.com/gitcoding-bot/CodinGame-Solutions/tree/master/Solutions/Easy/Temperatures)          | 100%          | Easy          | C++         |
+| [The Descent](https://github.com/gitcoding-bot/CodinGame-Solutions/tree/master/Solutions/Easy/The%20Descent)           | 100%          | Easy          | Python      |
+| [Aneo](https://github.com/gitcoding-bot/CodinGame-Solutions/tree/master/Solutions/Medium/Aneo)                  | 100%          | Medium        | C++         |
+| [Shadow of the Knight](https://github.com/gitcoding-bot/CodinGame-Solutions/tree/master/Solutions/Medium/Shadows%20of%20the%20Knight%20-%20Episode%201)  | 100%          | Medium        | C++         |
+| [Skynet Revolution Ep1](https://github.com/gitcoding-bot/CodinGame-Solutions/tree/master/Solutions/Medium/Skynet%20Revolution) | 100%          | Medium        | C++         |
+| [There is no Spoon Ep1](https://github.com/gitcoding-bot/CodinGame-Solutions/tree/master/Solutions/Medium/There%20is%20no%20Spoon) | 100%          | Medium        | C++         |
+| [War](https://github.com/gitcoding-bot/CodinGame-Solutions/tree/master/Solutions/Medium/War)                   | 100%          | Medium        | C++         |
+| [Roller Coaster](https://github.com/gitcoding-bot/CodinGame-Solutions/tree/master/Solutions/Hard/Unsolved/Roller%20Coaster)        | 73%           | Hard          | C++         |
+| [Skynet Revolution Ep2](https://github.com/gitcoding-bot/CodinGame-Solutions/tree/master/Solutions/Hard/Unsolved/Skynet%20Revolution%20-%20Episode%202) | 49%           | Hard          | C++         |
+| [There is no Spoon Ep2](https://github.com/gitcoding-bot/CodinGame-Solutions/tree/master/Solutions/Hard/Unsolved/There%20is%20no%20Spoon%20-%20Episode%202) | 84%           | Hard          | C++         |
