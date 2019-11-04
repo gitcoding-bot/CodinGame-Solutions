@@ -10,7 +10,7 @@ All the solutions uploaded here are my own solutions. In the cases where I got s
 
 | Puzzle Name           | % Completed   | Difficulty    | Language    |
 | --------------------- | :-----------: | ------------- | ----------- |
-| ASCII Art             | 100%          | Easy          | C++         |
+| [ASCII Art] (/Solutions/Easy/ASCII%20Art)             | 100%          | Easy          | C++         |
 | Chuck Norris          | 100%          | Easy          | C++         |
 | Mars Lander           | 100%          | Easy          | C++         |
 | Onboarding            | 100%          | Easy          | Python      |
