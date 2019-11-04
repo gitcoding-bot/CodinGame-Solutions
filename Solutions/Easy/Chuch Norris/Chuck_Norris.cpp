@@ -87,7 +87,6 @@ void chuck_norris(string &vv, vector<char> v)
     
 };
 
-
 int main()
 {
     void binary_conv(vector<char> &v, char c);
