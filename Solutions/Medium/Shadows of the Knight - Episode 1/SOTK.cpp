@@ -3,6 +3,11 @@ CodinGame.com Solutions by gitcoding-bot
 
 Puzzle: Shadows of the Knight - Episode 1
 Difficulty: Medium
+
+This solution uses a strategy whereby the "size" of the map is reduced each time
+feedback is obtained from the game. For instance if the bomb is located "up". Then only the top 
+half of the current map is considered for all future calculations. Batman then moves to the middle 
+of the "new" map and repeats the process. This is continued until the bomb is found.
 */
 
 
