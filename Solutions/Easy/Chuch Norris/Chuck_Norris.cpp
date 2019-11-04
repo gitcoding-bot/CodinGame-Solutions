@@ -4,7 +4,6 @@ CodinGame.com Solutions by gitcoding-bot
 
 Puzzle: Chuck Norris
 Difficulty: Easy
-Date solved: 08.11.2018
 
 */
 
