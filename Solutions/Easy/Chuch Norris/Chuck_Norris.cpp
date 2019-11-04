@@ -16,11 +16,6 @@ Date solved: 08.11.2018
 
 using namespace std;
 
-/**
- * Auto-generated code below aims at helping you parse
- * the standard input according to the problem statement.
- **/
-
 void binary_conv(vector<char> &v, char c)
 {
         //Converts the ASCII characters into binary representation.
