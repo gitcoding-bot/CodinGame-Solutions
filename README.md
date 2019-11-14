@@ -24,5 +24,6 @@ All the solutions uploaded here are my own solutions. In the cases where I got s
 | [War](https://github.com/gitcoding-bot/CodinGame-Solutions/tree/master/Solutions/Medium/War)                   | 100%          | Medium        | C++         |
 | [Reverse Polish Notation](https://github.com/gitcoding-bot/CodinGame-Solutions/tree/master/Solutions/Hard/Solved/Reverse%20Polish%20Notation)|100%|Hard|C++|
 | [Roller Coaster](https://github.com/gitcoding-bot/CodinGame-Solutions/blob/master/Solutions/Hard/Solved/Roller%20Coaster/Roller_coaster.cpp)        | 100%           | Hard          | C++         |
+| [There is no Spoon Ep2](https://github.com/gitcoding-bot/CodinGame-Solutions/blob/master/Solutions/Hard/Solved/There%20is%20no%20spoon%20-%20Part%202/TINS.cpp) | 100%           | Hard          | C++ |
 | [Skynet Revolution Ep2](https://github.com/gitcoding-bot/CodinGame-Solutions/tree/master/Solutions/Hard/Unsolved/Skynet%20Revolution%20-%20Episode%202) | 49%           | Hard          | C++         |
-| [There is no Spoon Ep2](https://github.com/gitcoding-bot/CodinGame-Solutions/tree/master/Solutions/Hard/Unsolved/There%20is%20no%20Spoon%20-%20Episode%202) | 84%           | Hard          | C++         |
+
